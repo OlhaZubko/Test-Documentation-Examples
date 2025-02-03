@@ -1,5 +1,5 @@
 
-# BDD Scenarios for [https://coffee-cart.app/](https://www.saucedemo.com/inventory.html
+# BDD Scenarios for https://www.saucedemo.com/inventory.html
 
 
 @Feature: Login User
