@@ -5,7 +5,8 @@
 
 @Feature: Login User
 
-@Positive Scenario: Successful Login
+@Positive
+Scenario: Successful Login
 Given
 - Користувач знаходиться на сторінці входу
 #### When
