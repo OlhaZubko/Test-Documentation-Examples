@@ -1,9 +1,9 @@
-# BDD Scenarios for [SauceDemo](https://www.saucedemo.com/inventory.html)
+BDD Scenarios for [SauceDemo](https://www.saucedemo.com/inventory.html)
 
-## Feature: Login User
+@Feature: Login User
 
-### Positive Scenario: Successful Login
-#### Given
+@Positive Scenario: Successful Login
+Given
 - Користувач знаходиться на сторінці входу
 #### When
 - Він вводить правильний email і пароль
