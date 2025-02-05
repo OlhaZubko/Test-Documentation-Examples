@@ -1,6 +1,6 @@
+```gherkin
 @Positive
 ## Feature: Login user
-```gherkin
 Scenario: Successful login
   Given the user is on the login page
   When the user enters the correct email and password:
@@ -17,7 +17,7 @@ Scenario: Successful login
 
 
 @Negative
-Feature: User can’t login to the system
+## Feature: User can’t login to the system
 Scenario: Login error with incorrect Password
   Given the user is on the login page
   When the user enters the correct username but the incorrect password:
@@ -34,7 +34,7 @@ Scenario: Login error with incorrect Password
 
 
 @Negative
-Feature: User can’t Login to the system
+## Feature: User can’t Login to the system
 Scenario: Login error with incorrect username
   Given the user is on the login page
   When the user enters an incorrect username and a correct password:
@@ -46,7 +46,7 @@ Scenario: Login error with incorrect username
 
 
 @Positive
-Feature: Verify whether the added product is displayed in the cart
+## Feature: Verify whether the added product is displayed in the cart
 Scenario: Buy a "Sauce Labs Backpack" from the "All Items" page
   Given the user is on the "All Items" page
   And the cart is empty
@@ -58,7 +58,7 @@ Scenario: Buy a "Sauce Labs Backpack" from the "All Items" page
 
 
 @Negative
-Feature: Verify that an order cannot be placed with an empty cart
+## Feature: Verify that an order cannot be placed with an empty cart
 Scenario: Place an order without adding the product to the cart
   Given the user is on the "All Items" page
   And the cart is empty
