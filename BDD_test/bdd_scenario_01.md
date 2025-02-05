@@ -1,3 +1,6 @@
+# Example of BDD scenarios for https://www.saucedemo.com/
+
+
 ```gherkin
 @Positive
 ## Feature: Login user
