@@ -12,5 +12,5 @@ Here is the list of different testing docs examples:
 ## Test Case
 | Document name   | English |
 |-----------------|---------|
-| Manual test cases | [english](test cases/manual_test_case_01.md) |
+| Manual test cases | [english](<test cases/manual_test_case_01.md>) |
 
