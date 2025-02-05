@@ -1,3 +1,0 @@
-git add .
-git commit -m "Fixed Markdown formatting for Gherkin syntax"
-git push origin main
