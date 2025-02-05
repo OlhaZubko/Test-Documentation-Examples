@@ -1,6 +1,6 @@
 
 # Test Documentation Examples  
-There are list of different testing docs examples:  
+There is the list of different testing docs examples:  
 - BDD Scenarios  
 - Test Cases  
 
