@@ -10,6 +10,7 @@ Here is the list of different testing docs examples:
 | Gherkin BDD scenarios | [english](BDD_test/bdd_scenario_01.md) |
 
 ## Test Case
-| Document name   |English|
-|-----------------|-------|
-|Manual test cases| [english](test cases/manual_test_case_01.md) |
+| Document name   | English |
+|-----------------|---------|
+| Manual test cases | [english](test cases/manual_test_case_01.md) |
+
