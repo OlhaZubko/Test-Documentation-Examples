@@ -1,5 +1,4 @@
-# Test-Documentation-Examples
-Test-Documentation-Examples
+
 # Test Documentation Examples  
 Цей репозиторій містить приклади тестової документації, такі як:  
 - Test Plan  
