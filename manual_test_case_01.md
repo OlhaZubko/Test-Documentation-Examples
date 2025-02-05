@@ -2,7 +2,6 @@
 
 
 ## Test 01 - The purchased item is displayed in the cart
-
 **📃 Description:** Verify the added product is displayed in the cart
 **🏷️ Tags:** Smoke, Positive
 **🗝️ Preconditions:**
