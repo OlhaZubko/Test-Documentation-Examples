@@ -2,8 +2,11 @@
 
 
 ## Test 01 - The purchased item is displayed in the cart
+
 **📃 Description:** Verify the added product is displayed in the cart
+
 **🏷️ Tags:** Smoke, Positive
+
 **🗝️ Preconditions:**
 the Cart is empty
 
@@ -19,6 +22,7 @@ Verify that the ‘Sauce Labs Backpack’ item displayed in the cart
 
 
 ## Test 02 - The purchased item can be removed from the cart
+
 **📃 Description:** Verify the added product can be removed from the cart
 **🏷️ Tags:** Smoke, Positive
 **🗝️ Preconditions:**
