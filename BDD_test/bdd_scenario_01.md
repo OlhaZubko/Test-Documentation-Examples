@@ -18,7 +18,6 @@ Scenario: Successful login
   Then the user lands on the "All Items" page
 
 
-
 @Negative
 ## Feature: User can’t login to the system
 Scenario: Login error with incorrect Password
