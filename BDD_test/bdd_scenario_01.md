@@ -1,5 +1,6 @@
 @Positive
 ## Feature: Login user
+```gherkin
 Scenario: Successful login
   Given the user is on the login page
   When the user enters the correct email and password:
@@ -74,3 +75,4 @@ Scenario: Place an order without adding the product to the cart
   Then the "Overview" page is opened
   And the system displays a message that the cart is empty
   And the "Finish" button should be disabled
+```
