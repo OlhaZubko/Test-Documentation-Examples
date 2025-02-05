@@ -12,4 +12,4 @@ There are list of different testing docs examples:
 ## Test Case
 |Document name| English                                                          |
 |-----------------------|---|---|
-|Manual test cases| [english]()               |
+|Manual test cases| [english](test cases/manual_test_case_01.md)               |
