@@ -96,3 +96,4 @@ the Cart is empty
 - Verify the message about successful purchase ‘Thank you for your order!‘ is displayed
 - Verify that the ‘Sauce Labs Bike Light’ item was removed from the card
 - Verify the cart is empty
+
